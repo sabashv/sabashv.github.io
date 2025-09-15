@@ -107,12 +107,13 @@
                   {%- else -%}
                     {%- assign url = p.url -%}
                   {%- endif %}
-                  <a class="nav-link" href="{{ url | relative_url }}">
-                    {{- p.title }}
-                    {% if page.url contains p.url %}
-                      <span class="sr-only">(current)</span>
-                    {% endif %}
-                  </a>
+                 <a class="nav-link"
+   href="{% if p.title == 'publications' or p.title == 'projects' or p.title == 'cv' %}javascript:void(0){% else %}{{ url | relative_url }}{% endif %}">
+  {{- p.title }}
+  {% if page.url contains p.url %}
+    <span class="sr-only">(current)</span>
+  {% endif %}
+</a>
                 </li>
               {% endif %}
             {% endif %}

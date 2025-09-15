@@ -23,3 +23,13 @@ $max-content-width: {{ site.max_width }};
   "tabler-icons/tabler-icons-filled.scss",
   "tabler-icons/tabler-icons-outline.scss"
 ;
+
+.profile .social-icons {
+  margin-top: 1rem;
+  text-align: center;
+}
+
+.profile .social-icons a {
+  margin: 0 0.5rem;
+  font-size: 1.5rem; // adjust size
+}
