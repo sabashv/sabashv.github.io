@@ -28,7 +28,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a Master’s student in Data Science and Artificial Intelligence at Institut Polytechnique de Paris. My research interests lie in developing data systems for real-world applications and advancing the theoretical foundations of database research, with a focus on graph databases, query optimization, and knowledge representation for building scalable and efficient solutions.
+I am a Master’s student in Data Science and Artificial Intelligence at Institut Polytechnique de Paris.
+# My research interests lie in developing data systems for real-world applications and advancing the theoretical foundations of database #research, with a focus on graph databases, query optimization, and knowledge representation for building scalable and efficient solutions.
 
 Currently, I am a research intern at Inria under the supervision of [Prof. Ioana Manolescu](https://pages.saclay.inria.fr/ioana.manolescu/), where I work on information retrieval and summarization from graph data lakes.  
 
