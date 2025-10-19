@@ -29,7 +29,6 @@ latest_posts:
 ---
 
 I am a Master’s student in Data Science and Artificial Intelligence at Institut Polytechnique de Paris.
-
-Currently, I am a research intern at Inria under the supervision of [Prof. Ioana Manolescu](https://pages.saclay.inria.fr/ioana.manolescu/), where I work on information retrieval and summarization from graph data lakes.  
+ 
 
 I received my B.Sc. in Computer Engineering from the University of Tehran in 2024. During my undergraduate studies, I focused on machine learning research. I completed a research internship at EPFL with [Prof. Karl Aberer](https://www.epfl.ch/labs/lsir/prof-karl-aberer/), working on improving the generalization of large language models for low-resource languages. I also collaborated with [Prof. Soroush Vosoughi](https://web.cs.dartmouth.edu/people/soroush-vosoughi) at Dartmouth College, where we developed a graph neural network model for predicting genome architecture.  
